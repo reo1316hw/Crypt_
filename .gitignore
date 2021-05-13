@@ -26,3 +26,13 @@
 # Executables
 *.out
 *.app
+
+*.iobj
+*.ipdb
+*.pdb
+
+Crypt/EncryptProject/Release/
+Crypt/EncryptProject/Debug/
+Crypt/DecryptProject/Release/
+Crypt/DecryptProject/Debug/
+Crypt/.vs/
